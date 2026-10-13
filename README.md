@@ -17,9 +17,8 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 
 | #   | Problem                                                                 | Difficulty | Solution                                                     |
 | --- | ----------------------------------------------------------------------- | ---------- | ------------------------------------------------------------ |
-| 001 | [Two Sum](https://leetcode.com/problems/two-sum/)                       | 🟢 Easy    | [Python](./Array-hashing%20problems/TwoSum.py)               |
-| 002 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy    | [Python](./Array-hashing%20problems/Contains%20Duplicate.py) |
-
+| 001 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [Python](./Array-hashing%20problems/TwoSum.py) |
+| 002 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | [Python](./Array-hashing%20problems/Contains%20Duplicate.py) |
 ---
 
 ## 🛠️ How to Run
