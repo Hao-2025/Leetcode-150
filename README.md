@@ -6,7 +6,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 
 ## 📊 Progress Tracker
 
-- **Solved:** 2 / 150
+- **Solved:** 3 / 150
 - **Language:** Python 3
 
 ---
@@ -19,6 +19,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 | --- | ----------------------------------------------------------------------- | ---------- | ------------------------------------------------------------ |
 | 001 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [Python](./Array-hashing%20problems/TwoSum.py) |
 | 002 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | [Python](./Array-hashing%20problems/Contains%20Duplicate.py) |
+| 003 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | 🟢 Easy | [Python](./Array-hashing%20problems/Valid%20Anagram.py) |
 ---
 
 ## 🛠️ How to Run
