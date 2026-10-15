@@ -6,7 +6,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 
 ## 📊 Progress Tracker
 
-- **Solved:** 3 / 150
+- **Solved:** 4 / 150
 - **Language:** Python 3
 
 ---
@@ -17,12 +17,14 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 
 | #   | Problem                                                                 | Difficulty | Solution                                                     |
 | --- | ----------------------------------------------------------------------- | ---------- | ------------------------------------------------------------ |
-| 001 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [Python](./Array-hashing%20problems/TwoSum.py) |
-| 002 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | [Python](./Array-hashing%20problems/Contains%20Duplicate.py) |
-| 003 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | 🟢 Easy | [Python](./Array-hashing%20problems/Valid%20Anagram.py) |
+| 001 | [Two Sum](https://leetcode.com/problems/two-sum/)                       | 🟢 Easy    | [Python](./Array-hashing%20problems/TwoSum.py)               |
+| 002 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy    | [Python](./Array-hashing%20problems/Contains%20Duplicate.py) |
+| 003 | [Valid Anagram](https://leetcode.com/problems/valid-anagram)            | 🟢 Easy    | [Python](./Array-hashing%20problems/Valid%20Anagram.py)      |
+| 004 | [Group Anagrams](https://leetcode.com/problems/group-anagrams)          | 🟡 Medium  | [Python](./Array-hashing%20problems/Group%20Anagrams.py)     |
+
 ---
 
-## 🛠️ How to Run
+## 🛠️ How to Run  
 
 1. Clone the repository:
    ```bash
