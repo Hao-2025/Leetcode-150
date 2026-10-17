@@ -6,7 +6,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 
 ## 📊 Progress Tracker
 
-- **Solved:** / 150
+- **Solved:** 6/ 150
 - **Language:** Python 3
 
 ---
@@ -22,7 +22,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 | 003 | [Valid Anagram](https://leetcode.com/problems/valid-anagram)            | 🟢 Easy    | [Python](./Array-hashing%20problems/Valid%20Anagram.py)      |
 | 004 | [Group Anagrams](https://leetcode.com/problems/group-anagrams)          | 🟡 Medium  | [Python](./Array-hashing%20problems/Group%20Anagrams.py)     |
 | 005 | [Top K Frequent](https://leetcode.com/problems/top-k-frequent-elements) | 🟡 Medium  | [Python](./Array-hashing%20problems/Top%20K%20Frequent.py)   |
-
+| 006 | [Encode and decode strings](https://leetcode.com/problems/encode-and-decode-strings) | 🟡 Medium  | [Python](./Array-hashing%20problems/Encode%20and%20decode%20strings.py)   |
 ---
 
 ## 🛠️ How to Run
