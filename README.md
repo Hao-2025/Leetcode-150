@@ -6,7 +6,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 
 ## 📊 Progress Tracker
 
-- **Solved:** 8 / 150
+- **Solved:** 9 / 150
 - **Language:** Python 3
 
 ---
@@ -25,6 +25,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 | 006 | [Encode and decode strings](https://leetcode.com/problems/encode-and-decode-strings) | 🟡 Medium  | [Python](./Array-hashing%20problems/Encode%20and%20decode%20strings.py)   |
 | 007 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | 🟡 Medium  | [Python](./Array-hashing%20problems/Product%20of%20Array%20Except%20Self.py)   |
 | 008 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | 🟡 Medium  | [Python](./Array-hashing%20problems/Valid%20Sudoku.py)   |
+| 009 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | 🟡 Medium  | [Python](./Array-hashing%20problems/Longest%20Consecutive%20Sequence.py)   |
 ---
 
 ## 🛠️ How to Run
