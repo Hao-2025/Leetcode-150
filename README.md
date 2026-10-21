@@ -6,7 +6,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 
 ## 📊 Progress Tracker
 
-- **Solved:** 9 / 150
+- **Solved:** 10 / 150
 - **Language:** Python 3
 
 ---
@@ -33,7 +33,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 | #   | Problem                                                                 | Difficulty | Solution                                                     |
 | --- | ----------------------------------------------------------------------- | ---------- | ------------------------------------------------------------ |
 | 001 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)                       | 🟢 Easy    | [Python](./Two%20pointer/Valid%20Palindrome.py)               |
-
+---
 
 ## 🛠️ How to Run
 
