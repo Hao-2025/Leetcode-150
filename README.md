@@ -28,6 +28,13 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 | 009 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | 🟡 Medium  | [Python](./Array-hashing%20problems/Longest%20Consecutive%20Sequence.py)   |
 ---
 
+### 2. Two Pointer
+
+| #   | Problem                                                                 | Difficulty | Solution                                                     |
+| --- | ----------------------------------------------------------------------- | ---------- | ------------------------------------------------------------ |
+| 001 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)                       | 🟢 Easy    | [Python](./Two%20pointer/Valid%20Palindrome.py)               |
+
+
 ## 🛠️ How to Run
 
 1. Clone the repository:
