@@ -6,7 +6,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 
 ## 📊 Progress Tracker
 
-- **Solved:** 10 / 150
+- **Solved:** 11 / 150
 - **Language:** Python 3
 
 ---
@@ -33,6 +33,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 | #   | Problem                                                                 | Difficulty | Solution                                                     |
 | --- | ----------------------------------------------------------------------- | ---------- | ------------------------------------------------------------ |
 | 001 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)                       | 🟢 Easy    | [Python](./Two%20pointer/Valid%20Palindrome.py)               |
+| 002 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | 🟡 Medium  | [Python](./Array-hashing%20problems/Two%20Sum%20II.py)   |
 ---
 
 ## 🛠️ How to Run
