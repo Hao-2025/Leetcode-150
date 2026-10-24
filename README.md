@@ -35,7 +35,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 | 001 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)                       | 🟢 Easy    | [Python](./Two%20pointer/Valid%20Palindrome.py)               |
 | 002 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | 🟡 Medium  | [Python](./Two%20pointer/Two%20Sum%20II.py)   |
 | 003 | [3Sum](https://leetcode.com/problems/3sum) | 🟡 Medium  | [Python](./Two%20pointer/3Sum.py)   |
-|  | [3Sum](https://leetcode.com/problems/container-with-most-water) | 🟡 Medium  | [Python](./Two%20pointer/Container%20With%20Most%20Water.py)   |
+| 004 | [3Sum](https://leetcode.com/problems/container-with-most-water) | 🟡 Medium  | [Python](./Two%20pointer/Container%20With%20Most%20Water.py)   |
 ---
 
 ## 🛠️ How to Run
