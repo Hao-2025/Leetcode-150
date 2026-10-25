@@ -18,7 +18,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 | #   | Problem                                                                 | Difficulty | Solution                                                     |
 | --- | ----------------------------------------------------------------------- | ---------- | ------------------------------------------------------------ |
 | 001 | [Two Sum](https://leetcode.com/problems/two-sum/)                       | 🟢 Easy    | [Python](./Array-Hasing%20problems/TwoSum.py)               |
-| 002 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy    | [Python](./Array-Hasing%20problems/Contains%20Duplicate.py) |
+| 002 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy    | [Python](./Two%20Pointer/Contains%20Duplicate.py) |
 | 003 | [Valid Anagram](https://leetcode.com/problems/valid-anagram)            | 🟢 Easy    | [Python](./Array-Hasing%20problems/Valid%20Anagram.py)      |
 | 004 | [Group Anagrams](https://leetcode.com/problems/group-anagrams)          | 🟡 Medium  | [Python](./Array-Hasing%20problems/Group%20Anagrams.py)     |
 | 005 | [Top K Frequent](https://leetcode.com/problems/top-k-frequent-elements) | 🟡 Medium  | [Python](./Array-Hasing%20problems/Top%20K%20Frequent.py)   |
@@ -42,7 +42,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 ### 3. Sliding Window
 | #   | Problem                                                                 | Difficulty | Solution                                                     |
 | --- | ----------------------------------------------------------------------- | ---------- | ------------------------------------------------------------ |
-| 001 | [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)                       | 🟢 Easy    | [Python](./Sliding%20Window/Valid%20Palindrome.py)               |
+| 001 | [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)                       | 🟢 Easy    | [Python](./Sliding%20Window/Best%20time%20to%20buy%20and%20sell%20stock.py)               |
 ---
 
 ## 🛠️ How to Run
