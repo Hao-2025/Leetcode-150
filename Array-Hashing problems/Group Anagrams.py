@@ -27,5 +27,3 @@ class Solution:
             grouped[tuple(count)].append(s)
 
         return list(grouped.values())   
-
-

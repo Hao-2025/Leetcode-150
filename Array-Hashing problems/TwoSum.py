@@ -29,5 +29,3 @@ class Solution:
             return [prevMap[complement], i]
          prevMap[n] = i
       return []
-
-

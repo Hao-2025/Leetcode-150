@@ -15,12 +15,3 @@ class Solution:
         for i in range(k):
             result.append(sorted_items[i][0])
         return result
-    
-  
-
-     
-
-
-
-
-

@@ -28,5 +28,3 @@ class Solution:
             res.append(str[j+1 : j+1+length])
             i = j+1+length
         return res
-    
-    

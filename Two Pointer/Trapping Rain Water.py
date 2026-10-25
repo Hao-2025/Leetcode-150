@@ -32,9 +32,3 @@ class Solution:
                 water += r_max - height[r]
 
         return water
-    
-
-
-
-
-    
