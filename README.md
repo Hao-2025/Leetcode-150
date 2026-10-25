@@ -31,6 +31,8 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 
 ### 2. Two Pointer
 
+### 2. Two Pointer
+
 | #   | Problem                                                                              | Difficulty | Solution                                                     |
 | --- | ------------------------------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
 | 001 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)                   | 🟢 Easy    | [Python](./Two%20Pointer/Valid%20Palindrome.py)              |
