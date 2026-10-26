@@ -44,7 +44,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 | #   | Problem                                                                                          | Difficulty | Solution                                                                               |
 | --- | ------------------------------------------------------------------------------------------------ | ---------- | -------------------------------------------------------------------------------------- |
 | 001 | [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | 🟢 Easy    | [Python](./Sliding%20Window/Best%20time%20to%20buy%20and%20sell%20stock.py)            |
-| 001 | [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | 🟡 Medium  | [Python](./Sliding%20Window/Longest%20substring%20without%20repeating%20characters.py) |
+| 001 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | 🟡 Medium  | [Python](./Sliding%20Window/Longest%20substring%20without%20repeating%20characters.py) |
 
 ---
 
