@@ -56,7 +56,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 
 | #   | Problem                                                              | Difficulty | Solution                                 |
 | --- | -------------------------------------------------------------------- | ---------- | ---------------------------------------- |
-| 001 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | 🟢 Easy    | [Python](./Stack/Valid%20Parentheses.py) |
+| 001 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | 🟢 Easy    | [Python](./Stack/Valid%20parentheses.py) |
 
 ---
 
