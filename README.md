@@ -6,7 +6,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 
 ## 📊 Progress Tracker
 
-- **Solved:** 18 / 150
+- **Solved:** 19 / 150
 - **Language:** Python 3
 
 ---
@@ -46,7 +46,14 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 | 001 | [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)                               | 🟢 Easy    | [Python](./Sliding%20Window/Best%20time%20to%20buy%20and%20sell%20stock.py)            |
 | 002 | [Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | 🟡 Medium  | [Python](./Sliding%20Window/Longest%20substring%20without%20repeating%20characters.py) |
 | 003 | [Longest repeating char replacement](https://leetcode.com/problems/longest-repeating-character-replacement)                    | 🟡 Medium  | [Python](./Sliding%20Window/Longest%20repeating%20char%20replacement.py)               |
-| 004 | [Permutation in string](https://leetcode.com/problems/permutation-in-string)                    | 🟡 Medium  | [Python](./Sliding%20Window/Permutation%20in%20string.py)  
+| 004 | [Permutation in string](https://leetcode.com/problems/permutation-in-string)                                                   | 🟡 Medium  | [Python](./Sliding%20Window/Permutation%20in%20string.py)                              |
+
+### 4. Stack
+
+| #   | Problem                                                              | Difficulty | Solution                                 |
+| --- | -------------------------------------------------------------------- | ---------- | ---------------------------------------- |
+| 001 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | 🟢 Easy    | [Python](./Stack/Valid%20Parentheses.py) |
+
 ---
 
 ## 🛠️ How to Run
