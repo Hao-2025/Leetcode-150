@@ -39,6 +39,8 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 | 004 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | 🟡 Medium  | [Python](./Two%20Pointer/Container%20With%20Most%20Water.py) |
 | 005 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)            | 🔴 Hard    | [Python](./Two%20Pointer/Trapping%20Rain%20Water.py)         |
 
+---
+
 ### 3. Sliding Window
 
 | #   | Problem                                                                                                                        | Difficulty | Solution                                                                               |
@@ -47,6 +49,8 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 | 002 | [Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | 🟡 Medium  | [Python](./Sliding%20Window/Longest%20substring%20without%20repeating%20characters.py) |
 | 003 | [Longest repeating char replacement](https://leetcode.com/problems/longest-repeating-character-replacement)                    | 🟡 Medium  | [Python](./Sliding%20Window/Longest%20repeating%20char%20replacement.py)               |
 | 004 | [Permutation in string](https://leetcode.com/problems/permutation-in-string)                                                   | 🟡 Medium  | [Python](./Sliding%20Window/Permutation%20in%20string.py)                              |
+
+---
 
 ### 4. Stack
 
