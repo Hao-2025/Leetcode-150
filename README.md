@@ -6,7 +6,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 
 ## 📊 Progress Tracker
 
-- **Solved:** 19 / 150
+- **Solved:** 20 / 150
 - **Language:** Python 3
 
 ---
@@ -57,6 +57,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 | #   | Problem                                                              | Difficulty | Solution                                 |
 | --- | -------------------------------------------------------------------- | ---------- | ---------------------------------------- |
 | 001 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | 🟢 Easy    | [Python](./Stack/Valid%20parentheses.py) |
+| 002 | [Min Stack](https://leetcode.com/problems/min-stack)                 | 🟡 Medium  | [Python](./Stack/Min%20stack.py)         |
 
 ---
 
