@@ -49,16 +49,18 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 | 002 | [Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | 🟡 Medium  | [Python](./Sliding%20Window/Longest%20substring%20without%20repeating%20characters.py) |
 | 003 | [Longest repeating char replacement](https://leetcode.com/problems/longest-repeating-character-replacement)                    | 🟡 Medium  | [Python](./Sliding%20Window/Longest%20repeating%20char%20replacement.py)               |
 | 004 | [Permutation in string](https://leetcode.com/problems/permutation-in-string)                                                   | 🟡 Medium  | [Python](./Sliding%20Window/Permutation%20in%20string.py)                              |
+| 005 | [Minimum window substring ](https://leetcode.com/problems/minimum-window-substring)                                            | 🔴 Hard    | [Python](./Sliding%20Window/Minimum%20indow%20substring.py)                            |
 
 ---
 
 ### 4. Stack
 
-| #   | Problem                                                                | Difficulty | Solution                                  |
-| --- | ---------------------------------------------------------------------- | ---------- | ----------------------------------------- |
-| 001 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)   | 🟢 Easy    | [Python](./Stack/Valid%20parentheses.py)  |
-| 002 | [Min Stack](https://leetcode.com/problems/min-stack)                   | 🟡 Medium  | [Python](./Stack/Min%20stack.py)          |
-| 003 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | 🟡 Medium  | [Python](./Stack/daily%20temperatures.py) |
+| #   | Problem                                                                                        | Difficulty | Solution                                          |
+| --- | ---------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------- |
+| 001 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                           | 🟢 Easy    | [Python](./Stack/Valid%20parentheses.py)          |
+| 002 | [Min Stack](https://leetcode.com/problems/min-stack)                                           | 🟡 Medium  | [Python](./Stack/Min%20stack.py)                  |
+| 003 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures)                         | 🟡 Medium  | [Python](./Stack/Daily%20temperatures.py)         |
+| 004 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | 🔴 Hard    | [Python](./Stack/Minimum%20window%20substring.py) |
 
 ---
 
