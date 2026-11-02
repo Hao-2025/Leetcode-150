@@ -6,7 +6,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 
 ## 📊 Progress Tracker
 
-- **Solved:** 21 / 150
+- **Solved:** 23 / 150
 - **Language:** Python 3
 
 ---
