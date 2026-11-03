@@ -6,7 +6,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 
 ## 📊 Progress Tracker
 
-- **Solved:** 23 / 150
+- **Solved:** 24 / 150
 - **Language:** Python 3
 
 ---
@@ -63,6 +63,12 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 | 004 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | 🔴 Hard    | [Python](./Stack/Minimum%20window%20substring.py) |
 
 ---
+
+### 5. Binary Search
+
+| #   | Problem                                                                                 | Difficulty | Solution                                                     |
+| --- | --------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------ |
+| 001 | [Search in Rotated Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | 🟡 Medium  | [Python](./Binary%20Search/Search%20in%20Rotated%20Array.py) |
 
 ## 🛠️ How to Run
 
