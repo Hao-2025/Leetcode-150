@@ -6,7 +6,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 
 ## 📊 Progress Tracker
 
-- **Solved:** 24 / 150
+- **Solved:** 25 / 150
 - **Language:** Python 3
 
 ---
@@ -66,9 +66,12 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 
 ### 5. Binary Search
 
-| #   | Problem                                                                                 | Difficulty | Solution                                                     |
-| --- | --------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------ |
-| 001 | [Search in Rotated Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | 🟡 Medium  | [Python](./Binary%20Search/Search%20in%20Rotated%20Array.py) |
+| #   | Problem                                                                                                    | Difficulty | Solution                                                                      |
+| --- | ---------------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------------------- |
+| 001 | [Search in Rotated Array](https://leetcode.com/problems/search-in-rotated-sorted-array)                    | 🟡 Medium  | [Python](./Binary%20Search/Search%20in%20Rotated%20Array.py)                  |
+| 002 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | 🟡 Medium  | [Python](./Binary%20Search/Find%20Minimum%20in%20Rotated%20Sorted%20Array.py) |
+
+---
 
 ## 🛠️ How to Run
 
