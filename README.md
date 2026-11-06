@@ -71,6 +71,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 | 001 | [Search in Rotated Array](https://leetcode.com/problems/search-in-rotated-sorted-array)                    | 🟡 Medium  | [Python](./Binary%20Search/Search%20in%20Rotated%20Array.py)                  |
 | 002 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | 🟡 Medium  | [Python](./Binary%20Search/Find%20Minimum%20in%20Rotated%20Sorted%20Array.py) |
 | 003 | [Time Based Key-Value](https://leetcode.com/problems/time-based-key-value-store)                           | 🟡 Medium  | [Python](./Binary%20Search/Time%20Based%20Key-Value.py)                       |
+| 004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)                   | 🔴 Hard    | [Python](./Binary%20Search/Median%20of%20Two%20Sorted%20Arrays.py)            |
 
 ---
 
