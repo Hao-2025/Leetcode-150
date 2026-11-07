@@ -79,7 +79,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 
 | #   | Problem                                                                  | Difficulty | Solution                             |
 | --- | ------------------------------------------------------------------------ | ---------- | ------------------------------------ |
-| 001 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | 🟢 Easy    | [Python](./Reverse%20Linked%List.py) |
+| 001 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | 🟢 Easy    | [Python](./Linked%20List/Reverse%20Linked%List.py) |
 
 ---
 
