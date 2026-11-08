@@ -6,7 +6,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 
 ## 📊 Progress Tracker
 
-- **Solved:** 28 / 150
+- **Solved:** 30 / 150
 - **Language:** Python 3
 
 ---
@@ -77,9 +77,11 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 
 ### 6. Linked List
 
-| #   | Problem                                                                  | Difficulty | Solution                                         |
-| --- | ------------------------------------------------------------------------ | ---------- | ------------------------------------------------ |
-| 001 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | 🟢 Easy    | [Python](<./Linked List/Reverse Linked List.py>) |
+| #   | Problem                                                                        | Difficulty | Solution                                            |
+| --- | ------------------------------------------------------------------------------ | ---------- | --------------------------------------------------- |
+| 001 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)       | 🟢 Easy    | [Python](<./Linked List/Reverse Linked List.py>)    |
+| 002 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | 🟢 Easy    | [Python](<./Linked List/Merge Two Sorted Lists.py>) |
+| 003 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)           | 🟢 Easy    | [Python](<./Linked List/Merge Two Sorted Lists.py>) |
 
 ---
 
