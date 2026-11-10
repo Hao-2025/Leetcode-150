@@ -6,7 +6,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 
 ## 📊 Progress Tracker
 
-- **Solved:** 31 / 150
+- **Solved:** 32 / 150
 - **Language:** Python 3
 
 ---
@@ -83,6 +83,14 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 | 002 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | 🟢 Easy    | [Python](<./Linked List/Merge Two Sorted Lists.py>) |
 | 003 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)           | 🟢 Easy    | [Python](<./Linked List/Merge Two Sorted Lists.py>) |
 | 004 | [LRU Cache](https://leetcode.com/problems/lru-cache)                           | 🟡 Medium  | [Python](<./Linked List/LRU Cache.py>)              |
+
+---
+
+### 6. Trees & Tries
+
+| #   | Problem                                                                | Difficulty | Solution                                          |
+| --- | ---------------------------------------------------------------------- | ---------- | ------------------------------------------------- |
+| 001 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | 🟢 Easy    | [Python](<./Trees & Tries/Invert Binary Tree.py>) |
 
 ---
 
