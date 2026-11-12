@@ -6,7 +6,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 
 ## 📊 Progress Tracker
 
-- **Solved:** 33 / 150
+- **Solved:** 34 / 150
 - **Language:** Python 3
 
 ---
@@ -92,6 +92,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 | --- | ------------------------------------------------------------------------------------------ | ---------- | ----------------------------------------------------------- |
 | 001 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)                     | 🟢 Easy    | [Python](<./Trees & Tries/Invert Binary Tree.py>)           |
 | 002 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | 🟢 Easy    | [Python](<./Trees & Tries/Maximum Depth of Binary Tree.py>) |
+| 003 | [Same Tree](https://leetcode.com/problems/same-tree)                                      | 🟢 Easy    | [Python](<./Trees & Tries/Same Tree.py>)                    |
 
 ---
 
