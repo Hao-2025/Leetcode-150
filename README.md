@@ -6,7 +6,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 
 ## 📊 Progress Tracker
 
-- **Solved:** 36 / 150
+- **Solved:** 37 / 150
 - **Language:** Python 3
 
 ---
@@ -83,18 +83,19 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 | 002 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | 🟢 Easy    | [Python](<./Linked List/Merge Two Sorted Lists.py>) |
 | 003 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)           | 🟢 Easy    | [Python](<./Linked List/Merge Two Sorted Lists.py>) |
 | 004 | [LRU Cache](https://leetcode.com/problems/lru-cache)                           | 🟡 Medium  | [Python](<./Linked List/LRU Cache.py>)              |
+| 005 | [LRU Cache](https://leetcode.com/problems/lru-cache)                           | 🟡 Medium  | [Python](<./Linked List/LRU Cache.py>)              |
 
 ---
 
 ### 7. Trees & Tries
 
-| #   | Problem                                                                                                          | Difficulty | Solution                                                               |
-| --- | ---------------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------------------------------------- |
-| 001 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)                                           | 🟢 Easy    | [Python](<./Trees & Tries/Invert Binary Tree.py>)                      |
-| 002 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)                       | 🟢 Easy    | [Python](<./Trees & Tries/Maximum Depth of Binary Tree.py>)            |
-| 003 | [Same Tree](https://leetcode.com/problems/same-tree)                                                             | 🟢 Easy    | [Python](<./Trees & Tries/Same Tree.py>)                               |
-| 004 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree)                                 | 🟢 Easy    | [Python](<./Trees & Tries/Subtree of Another Tree.py>)                 |
-| 005 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | 🟡 Medium  | [Python](<./Trees & Tries/Lowest Common Ancestor of a Binary Tree.py>) |
+| #   | Problem                                                                                              | Difficulty | Solution                                                         |
+| --- | ---------------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------------------------------- |
+| 001 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)                               | 🟢 Easy    | [Python](<./Trees & Tries/Invert Binary Tree.py>)                |
+| 002 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)           | 🟢 Easy    | [Python](<./Trees & Tries/Maximum Depth of Binary Tree.py>)      |
+| 003 | [Same Tree](https://leetcode.com/problems/same-tree)                                                 | 🟢 Easy    | [Python](<./Trees & Tries/Same Tree.py>)                         |
+| 004 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree)                     | 🟢 Easy    | [Python](<./Trees & Tries/Subtree of Another Tree.py>)           |
+| 005 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | 🟡 Medium  | [Python](<./Trees & Tries/Binary Tree Level Order Traversal.py>) |
 
 ---
 
