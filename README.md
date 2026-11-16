@@ -6,7 +6,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 
 ## 📊 Progress Tracker
 
-- **Solved:** 37 / 150
+- **Solved:** 38 / 150
 - **Language:** Python 3
 
 ---
@@ -96,6 +96,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 | 003 | [Same Tree](https://leetcode.com/problems/same-tree)                                                 | 🟢 Easy    | [Python](<./Trees & Tries/Same Tree.py>)                         |
 | 004 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree)                     | 🟢 Easy    | [Python](<./Trees & Tries/Subtree of Another Tree.py>)           |
 | 005 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | 🟡 Medium  | [Python](<./Trees & Tries/Binary Tree Level Order Traversal.py>) |
+| 006 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)             | 🟡 Medium  | [Python](<./Trees & Tries/Validate Binary Search Tree.py>)       |
 
 ---
 
