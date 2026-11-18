@@ -6,7 +6,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 
 ## 📊 Progress Tracker
 
-- **Solved:** 39 / 150
+- **Solved:** 40 / 150
 - **Language:** Python 3
 
 ---
@@ -89,15 +89,16 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 
 ### 7. Trees & Tries
 
-| #   | Problem                                                                                              | Difficulty | Solution                                                         |
-| --- | ---------------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------------------------------- |
-| 001 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)                               | 🟢 Easy    | [Python](<./Trees & Tries/Invert Binary Tree.py>)                |
-| 002 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)           | 🟢 Easy    | [Python](<./Trees & Tries/Maximum Depth of Binary Tree.py>)      |
-| 003 | [Same Tree](https://leetcode.com/problems/same-tree)                                                 | 🟢 Easy    | [Python](<./Trees & Tries/Same Tree.py>)                         |
-| 004 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree)                     | 🟢 Easy    | [Python](<./Trees & Tries/Subtree of Another Tree.py>)           |
-| 005 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | 🟡 Medium  | [Python](<./Trees & Tries/Binary Tree Level Order Traversal.py>) |
-| 006 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)             | 🟡 Medium  | [Python](<./Trees & Tries/Validate Binary Search Tree.py>)       |
-| 007 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)         | 🟡 Medium  | [Python](<./Trees & Tries/Kth Smallest Element in a BST.py>)     |
+| #   | Problem                                                                                                                                              | Difficulty | Solution                                                                                 |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------------------------------------------------------- |
+| 001 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)                                                                               | 🟢 Easy    | [Python](<./Trees & Tries/Invert Binary Tree.py>)                                        |
+| 002 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)                                                           | 🟢 Easy    | [Python](<./Trees & Tries/Maximum Depth of Binary Tree.py>)                              |
+| 003 | [Same Tree](https://leetcode.com/problems/same-tree)                                                                                                 | 🟢 Easy    | [Python](<./Trees & Tries/Same Tree.py>)                                                 |
+| 004 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree)                                                                     | 🟢 Easy    | [Python](<./Trees & Tries/Subtree of Another Tree.py>)                                   |
+| 005 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)                                                 | 🟡 Medium  | [Python](<./Trees & Tries/Binary Tree Level Order Traversal.py>)                         |
+| 006 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)                                                             | 🟡 Medium  | [Python](<./Trees & Tries/Validate Binary Search Tree.py>)                               |
+| 007 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)                                                         | 🟡 Medium  | [Python](<./Trees & Tries/Kth Smallest Element in a BST.py>)                             |
+| 008 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | 🟡 Medium  | [Python](<./Trees & Tries/Construct Binary Tree from Preorder and Inorder Traversal.py>) |
 
 ---
 
