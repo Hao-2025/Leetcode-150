@@ -6,7 +6,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 
 ## 📊 Progress Tracker
 
-- **Solved:** 41 / 150
+- **Solved:** 42 / 150
 - **Language:** Python 3
 
 ---
@@ -100,6 +100,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 | 007 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)                                                         | 🟡 Medium  | [Python](<./Trees & Tries/Kth Smallest Element in a BST.py>)                             |
 | 008 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | 🟡 Medium  | [Python](<./Trees & Tries/Construct Binary Tree from Preorder and Inorder Traversal.py>) |
 | 009 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | 🟡 Medium | [Python](<./Trees & Tries/Implement Trie (Prefix Tree).py>) |
+| 010 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | 🔴 Hard  | [Python](<./Trees & Tries/Word Search II.py>) |
 
 ---
 
