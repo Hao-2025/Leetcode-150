@@ -10,7 +10,7 @@
 # Input: board = [["a","b"],["c","d"]], words = ["abcb"]
 # Output: []
 
-class TrieNode:
+class TrieNode():
     def __init__(self):
         self.children = {}
         self.isWord = False
