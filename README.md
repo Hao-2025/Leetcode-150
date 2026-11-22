@@ -6,7 +6,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 
 ## 📊 Progress Tracker
 
-- **Solved:** 44 / 150
+- **Solved:** 45 / 150
 - **Language:** Python 3
 
 ---
@@ -109,7 +109,8 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 | #   | Problem                                                                                                                                              | Difficulty | Solution                                                                                 |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------------------------------------------------------- |
 | 001 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)                                                                               | 🟡 Medium    | [Python](<./Heap-Greedy/Kth Largest Element in an Array.py>)                                        |
-| 002| [Task Scheduler](https://leetcode.com/problems/task-scheduler)                                                                               | 🟡 Medium    | [Python](<./Heap-Greedy/Task Scheduler.py>)                                        |
+| 002 | [Task Scheduler](https://leetcode.com/problems/task-scheduler)                                                                               | 🟡 Medium    | [Python](<./Heap-Greedy/Task Scheduler.py>)                                        |
+| 003 | [Merge K Lists](https://leetcode.com/problems/merge-k-sorted-lists)                                                                               | 🔴 Hard    | [Python](<./Heap-Greedy/Merge K Lists.py>)                                        |
 
 ---
 
