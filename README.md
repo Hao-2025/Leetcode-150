@@ -114,6 +114,14 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 
 ---
 
+### 9. Graphs
+
+| #   | Problem                                                                                                                                              | Difficulty | Solution                                                                                 |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------------------------------------------------------- |
+| 001 | [Nums Island](https://leetcode.com/problems/number-of-islands)                                                                               | 🟡 Medium    | [Python](<./Graphs/Nums Island.py>)
+
+---
+
 ## 🛠️ How to Run
 
 1. Clone the repository:
