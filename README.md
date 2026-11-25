@@ -6,7 +6,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 
 ## 📊 Progress Tracker
 
-- **Solved:** 47 / 150
+- **Solved:** 48 / 150
 - **Language:** Python 3
 
 ---
@@ -120,6 +120,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------------------------------------------------------- |
 | 001 | [Nums Island](https://leetcode.com/problems/number-of-islands)                                                                               | 🟡 Medium    | [Python](<./Graphs/Nums Island.py>)
 | 002 | [Clone Graph](https://leetcode.com/problems/clone-graph)                                                                               | 🟡 Medium    | [Python](<./Graphs/Clone Graph.py>)
+| 003 | [Course Schedule](https://leetcode.com/problems/course-schedule)                                                                               | 🟡 Medium    | [Python](<./Graphs/Course Schedule.py>)
 
 ---
 
