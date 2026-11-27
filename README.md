@@ -6,7 +6,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 
 ## 📊 Progress Tracker
 
-- **Solved:** 49 / 150
+- **Solved:** 50 / 150
 - **Language:** Python 3
 
 ---
@@ -122,6 +122,7 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 | 002 | [Clone Graph](https://leetcode.com/problems/clone-graph)                                 | 🟡 Medium  | [Python](<./Graphs/Clone Graph.py>)                 |
 | 003 | [Course Schedule](https://leetcode.com/problems/course-schedule)                         | 🟡 Medium  | [Python](<./Graphs/Course Schedule.py>)             |
 | 004 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) | 🟡 Medium  | [Python](<./Graphs/Pacific Atlantic Water Flow.py>) |
+| 005 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces) | 🟡 Medium  | [Python](<./Graphs/Number of Provinces.py>) |
 
 ---
 
