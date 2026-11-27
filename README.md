@@ -99,29 +99,29 @@ My personal solutions to the **LeetCode Top Interview 150** study plan, implemen
 | 006 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)                                                             | 🟡 Medium  | [Python](<./Trees & Tries/Validate Binary Search Tree.py>)                               |
 | 007 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)                                                         | 🟡 Medium  | [Python](<./Trees & Tries/Kth Smallest Element in a BST.py>)                             |
 | 008 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | 🟡 Medium  | [Python](<./Trees & Tries/Construct Binary Tree from Preorder and Inorder Traversal.py>) |
-| 009 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | 🟡 Medium | [Python](<./Trees & Tries/Implement Trie (Prefix Tree).py>) |
-| 010 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | 🔴 Hard  | [Python](<./Trees & Tries/Word Search II.py>) |
+| 009 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)                                                            | 🟡 Medium  | [Python](<./Trees & Tries/Implement Trie (Prefix Tree).py>)                              |
+| 010 | [Word Search II](https://leetcode.com/problems/word-search-ii/)                                                                                      | 🔴 Hard    | [Python](<./Trees & Tries/Word Search II.py>)                                            |
 
 ---
 
 ### 8. Heap-Greedy
 
-| #   | Problem                                                                                                                                              | Difficulty | Solution                                                                                 |
-| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------------------------------------------------------- |
-| 001 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)                                                                               | 🟡 Medium    | [Python](<./Heap-Greedy/Kth Largest Element in an Array.py>)                                        |
-| 002 | [Task Scheduler](https://leetcode.com/problems/task-scheduler)                                                                               | 🟡 Medium    | [Python](<./Heap-Greedy/Task Scheduler.py>)                                        |
-| 003 | [Merge K Lists](https://leetcode.com/problems/merge-k-sorted-lists)                                                                               | 🔴 Hard    | [Python](<./Heap-Greedy/Merge K Lists.py>)                                        |
+| #   | Problem                                                                                          | Difficulty | Solution                                                     |
+| --- | ------------------------------------------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
+| 001 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | 🟡 Medium  | [Python](<./Heap-Greedy/Kth Largest Element in an Array.py>) |
+| 002 | [Task Scheduler](https://leetcode.com/problems/task-scheduler)                                   | 🟡 Medium  | [Python](<./Heap-Greedy/Task Scheduler.py>)                  |
+| 003 | [Merge K Lists](https://leetcode.com/problems/merge-k-sorted-lists)                              | 🔴 Hard    | [Python](<./Heap-Greedy/Merge K Lists.py>)                   |
 
 ---
 
 ### 9. Graphs
 
-| #   | Problem                                                                                                                                              | Difficulty | Solution                                                                                 |
-| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------------------------------------------------------- |
-| 001 | [Nums Island](https://leetcode.com/problems/number-of-islands)                                                                               | 🟡 Medium    | [Python](<./Graphs/Nums Island.py>)
-| 002 | [Clone Graph](https://leetcode.com/problems/clone-graph)                                                                               | 🟡 Medium    | [Python](<./Graphs/Clone Graph.py>)
-| 003 | [Course Schedule](https://leetcode.com/problems/course-schedule)                                                                               | 🟡 Medium    | [Python](<./Graphs/Course Schedule.py>)
-| 004 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow)                                                                               | 🟡 Medium    | [Python](<./Graphs/Pacific Atlantic Water Flow.py>)
+| #   | Problem                                                                                  | Difficulty | Solution                                            |
+| --- | ---------------------------------------------------------------------------------------- | ---------- | --------------------------------------------------- |
+| 001 | [Nums Island](https://leetcode.com/problems/number-of-islands)                           | 🟡 Medium  | [Python](<./Graphs/Nums Island.py>)                 |
+| 002 | [Clone Graph](https://leetcode.com/problems/clone-graph)                                 | 🟡 Medium  | [Python](<./Graphs/Clone Graph.py>)                 |
+| 003 | [Course Schedule](https://leetcode.com/problems/course-schedule)                         | 🟡 Medium  | [Python](<./Graphs/Course Schedule.py>)             |
+| 004 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) | 🟡 Medium  | [Python](<./Graphs/Pacific Atlantic Water Flow.py>) |
 
 ---
 
