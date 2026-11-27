@@ -16,11 +16,11 @@
 class Solution:
     def findCircleNum(self, isConnected: List[List[int]])-> int:
         
-        def dsf(i):
+        def dfs(i):
             self.visited.add(i)
             for j in range(n):
                 if isConnected[i][j] and j not in self.visited:
-                    dsf(j)
+                    dfs(j)
             return
         
         self.visited = set()
@@ -29,5 +29,5 @@ class Solution:
         for i in range(n):
             if i not in self.visited:
                 province += 1
-                dsf(i)
+                dfs(i)
         return province
